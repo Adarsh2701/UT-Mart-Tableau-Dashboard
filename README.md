@@ -2,7 +2,8 @@
 
 Learnt Data Visualization and Data Analytics with Tableau by solving a Realistic Analytics Projects.        
 
-UT Mart Sales Analytics       
+UT Mart Sales Analytics Dashboard
+https://github.com/utkarsh-yadav1231/Tableau-Projects/raw/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG
 
 What I Learnt in Tableau :
 
